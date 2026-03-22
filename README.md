@@ -59,12 +59,14 @@ This notebook implements the proposed framework:
  
 The following publicly available datasets are used. Download each from the links below and update the file paths in the notebooks accordingly.
  
+ 
 | Dataset | Domain | Source |
 |---|---|---|
-| ISOT Fake News | Politics | [University of Victoria](https://www.uvic.ca/engineering/ece/isot/datasets/) |
-| COVID-19 Fake News | Health | [Kaggle — parth21/covid19-fake-news](https://www.kaggle.com/datasets/parth21/covid19-fake-news) |
+| ISOT Fake News | Politics | [Kaggle — rahulogoel/isot-fake-news-dataset](https://www.kaggle.com/datasets/rahulogoel/isot-fake-news-dataset) |
+| COVID-19 Fake News | Health | [CodaLab — Official CONSTRAINT 2021 dataset](https://competitions.codalab.org/competitions/26655) |
 | GossipCop | Entertainment | [FakeNewsNet GitHub](https://github.com/KaiDMML/FakeNewsNet) |
 | WELFake | Multi-domain | [Kaggle — saurabhshahane/fake-news-classification](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification) |
+ 
  
 
 
