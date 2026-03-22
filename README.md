@@ -70,7 +70,7 @@ The following publicly available datasets are used. Download each from the links
 
 
 ## Reproducibility
- 
+
 To ensure reproducible results, all random seeds are fixed at the start of each notebook:
  
 ```python
@@ -84,7 +84,11 @@ torch.cuda.manual_seed_all(SEED)
 torch.backends.cudnn.deterministic = True
 torch.backends.cudnn.benchmark = False
 ```
- 
+ ## Reproducibility Note
+Results may vary slightly due to the stochastic nature of
+Genetic Algorithms and hardware-level floating point differences
+across GPU sessions. Reported results were obtained on Kaggle
+(GPU P100). Random seed is fixed at 42 to minimize variation.
 ---
  
 ## Results
