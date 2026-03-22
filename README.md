@@ -22,10 +22,9 @@ We propose a Genetic Algorithm (GA)-based framework that automatically selects t
 ## Repository Structure
  
 ```
-GA-RoBERTa-FakeNews/
+Fake-news-detection/
 │
 ├── README.md
-├── requirements.txt
 └── notebooks/
     ├── 1_vanilla_isot_roberta.ipynb       # Vanilla RoBERTa and ISOT-initialized baselines
     └── 2_ga_optimized_roberta.ipynb       # GA-based layer optimization (proposed method)
