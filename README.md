@@ -121,19 +121,7 @@ across GPU sessions. Reported results were obtained on Kaggle
  
 ---
  
-## Citation
- 
-If you use this code in your research, please cite:
- 
-```
-@article{sharma2025garoberta,
-  title   = {A Genetic Algorithm-Based Layer Optimization Framework
-             for Cross-Domain Fake News Detection Using RoBERTa},
-  author  = {Sharma, Ishita and Bhatt, Abhishek},
-  journal = {IEEE Latin America Transactions},
-  year    = {2025}
-}
-```
+
  
 ---
  
