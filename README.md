@@ -95,13 +95,13 @@ across GPU sessions. Reported results were obtained on Kaggle
  
 | Model | Dataset | Accuracy (%) | Weighted F1 |
 |---|---|---|---|
-| Vanilla RoBERTa | COVID-19 | 97.52 | 97.50 |
+| Vanilla RoBERTa | COVID-19 | 96.40 | 96.40 |
 | ISOT Initialized | COVID-19 | 63.50 | 58.00 |
 | **Proposed (GA)** | **COVID-19** | **97.19** | **97.35** |
 | Vanilla RoBERTa | GossipCop | 86.31 | 86.00 |
 | ISOT Initialized | GossipCop | 76.06 | 66.00 |
 | **Proposed (GA)** | **GossipCop** | **86.64** | **91.67** |
-| Vanilla RoBERTa | WELFake | 99.91 | 100.00 |
+| Vanilla RoBERTa | WELFake | 98.73 | 98.7 |
 | ISOT Initialized | WELFake | 95.11 | 95.00 |
 | **Proposed (GA)** | **WELFake** | **99.00** | **99.65** |
  
