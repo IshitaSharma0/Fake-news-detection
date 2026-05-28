@@ -13,7 +13,7 @@
 This repository contains the complete source code for the paper:
  
 > **A Genetic Algorithm-Based Layer Optimization Framework for Cross-Domain Fake News Detection Using RoBERTa**
-> Submitted to IEEE Latin America Transactions.
+
  
 We propose a Genetic Algorithm (GA)-based framework that automatically selects the optimal subset of RoBERTa transformer layers to fine-tune for cross-domain fake news detection. The framework mitigates negative transfer when adapting a domain-initialized model to heterogeneous target datasets.
  
